@@ -18,7 +18,7 @@
         "balance": 31084.61,
         "limit": 100000,
         "currency": "CZK",
-        "plastic": "https://quantum-demos1.s3.eu-central-1.amazonaws.com/CardsCarousel/green_gradient.png",
+        "plastic": "https://quantum-demos1.s3.eu-central-1.amazonaws.com/CardsCarousel/red_poly.png",
         "pan": "5000001234561699",
         "brand": "MC",
         "status": "blocked",
