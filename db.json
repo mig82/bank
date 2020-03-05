@@ -1,5 +1,29 @@
 {
     "cards": [{
+        "holder_id": "00uq3rc53x83RPdq00h7",
+        "type": "Credit Card",
+        "holder": "Miguelángel Fernández",
+        "balance": 190,
+        "limit": 2500,
+        "currency": "USD",
+        "plastic": "https://quantum-demos1.s3.eu-central-1.amazonaws.com/CardsCarousel/blue_poly.png",
+        "pan": "5000001234561699",
+        "brand": "MC",
+        "status": "active",
+        "expires": "20220229"
+    }, {
+        "holder_id": "00uq3rc53x83RPdq00h7",
+        "type": "Credit Card",
+        "holder": "M. Fernández",
+        "balance": 31084.61,
+        "limit": 100000,
+        "currency": "CZK",
+        "plastic": "https://quantum-demos1.s3.eu-central-1.amazonaws.com/CardsCarousel/green_gradient.png",
+        "pan": "5000001234561699",
+        "brand": "MC",
+        "status": "blocked",
+        "expires": "20220218"
+    },{
         "holder_id": "00up81anrmtyah4i70h7",
         "type": "Credit Card",
         "holder": "James M. Hendrix",
